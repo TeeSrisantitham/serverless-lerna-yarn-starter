@@ -1,13 +1,13 @@
 {
   "name": "service1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "handler.js",
   "license": "MIT",
   "scripts": {
     "test": "serverless-bundle test"
   },
   "dependencies": {
-    "sample": "^0.0.1"
+    "sample": "^0.0.2"
   },
   "devDependencies": {
     "serverless-bundle": "^1.9.0"
